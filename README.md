@@ -1,0 +1,1 @@
+This is my second odin project in web developement section which will be about creating a similar web page to the "google home page". At the end of it I will be able to create an html file on my one and style it with css rules, it would be a great experience for me to apply what I've learned so far. 
